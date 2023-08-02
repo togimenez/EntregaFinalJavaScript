@@ -1,0 +1,43 @@
+{
+    "comidas" : [
+        {
+            "comida": "Milanesa",
+            "precio": 2500
+
+        }, 
+        {
+            "comida": " Ravioles",
+            "precio": 2350
+        },
+        {
+            "comida": "Bife",
+            "precio": 4500
+        },
+        {
+            "comida": "Pizza",
+            "precio": 1500
+
+        }
+    ],
+    "bebidas" : [
+        {
+            "bebida": "Agua",
+            "precio": 300
+        },
+        {
+            "bebida": "Coca",
+            "precio": 550
+        },
+        {
+            "bebida": "Sprite",
+            "precio": 500
+        },
+        {
+            "bebida": "Fanta",
+            "precio": 300
+
+        }
+    ]
+}
+
+

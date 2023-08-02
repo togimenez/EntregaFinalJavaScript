@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(233, 181, 114) !important;
+}
+
+#presentacion{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+}
+#formulario{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.divForm{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+#select-comida{
+    margin: 30px;
+}
+
+#btnEnvio{
+    margin: 10px;
+}
+
